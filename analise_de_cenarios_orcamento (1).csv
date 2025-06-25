@@ -1,0 +1,6 @@
+orcamento_disponivel;custo_total_gasto;total_pacientes_examinados;casos_detectados_esperados;detalhes_alocacao
+2000;1950,0;13;12,74;Feminino - Assintomático: 4 | Feminino - Dor Não Anginosa: 9
+5000;4950,0;33;32,17;Feminino - Assintomático: 4 | Feminino - Dor Não Anginosa: 29
+10000;9900,0;66;61,03;Feminino - Angina Atípica: 18 | Feminino - Assintomático: 4 | Feminino - Dor Não Anginosa: 35 | Masculino - Angina Atípica: 9
+15000;15000,0;100;86,4;Feminino - Angina Atípica: 18 | Feminino - Assintomático: 4 | Feminino - Dor Não Anginosa: 35 | Masculino - Angina Atípica: 32 | Masculino - Dor Não Anginosa: 11
+50000;45450,0;303;165,0;Feminino - Angina Atípica: 18 | Feminino - Angina Típica: 39 | Feminino - Assintomático: 4 | Feminino - Dor Não Anginosa: 35 | Masculino - Angina Atípica: 32 | Masculino - Angina Típica: 104 | Masculino - Assintomático: 19 | Masculino - Dor Não Anginosa: 52
